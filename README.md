@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## 👋 Welcome to My GitHub Profile!
 
-![Header Image](https://example.com/header-image.png) <!-- Replace with your image link if needed -->
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) 
 
 ### 👨‍💻 About Me
@@ -62,5 +61,3 @@ Hi there! I'm a data science and AI enthusiast with a passion for coding, buildi
 - 🔒 Exploring new cybersecurity tools on Kali Linux
 
 ---
-
-This template gives your GitHub profile a clean and professional look. You can tweak and personalize the sections as you like, replacing placeholders with your info. Enjoy showing off your skills and projects! 😊
