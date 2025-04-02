@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Welcome to My GitHub Profile!
 
-![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) 
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-5x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-2x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-3x-orange.svg?logo=goldmedal)
 
 ### 👨‍💻 About Me
 Hi there! I'm a data science and AI enthusiast with a passion for coding, building models, and solving real-world problems. When I'm not diving deep into code, I'm probably working out, gaming, or experimenting with cool tech projects!
